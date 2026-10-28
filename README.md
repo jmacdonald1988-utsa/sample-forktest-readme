@@ -8,6 +8,8 @@ I am a "Super Senior" hoping to graduate by 2028 or 2029 since I work full time,
 ## 🎉 Interests
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ![Operational Technology](https://img.shields.io/badge/OT-green)
+![Football](https://img.shields.io/badge/NFL-Blue)
+
 
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/jmacdonald1988-utsa)
