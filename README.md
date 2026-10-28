@@ -1,16 +1,14 @@
-## 👏 Hi, I'm *your name here*
+## 👏 Hi, I'm Jason MacDonald
 ##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
+I am a "Super Senior" hoping to graduate by 2028 or 2029 since I work full time, I am majoring in Cybersecurity, and I currently work as a Cybersecurity Analyst for a local Utility.  In my free time I pretty much just raise my daughter.
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
 ## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/jmacdonald1988-utsa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/<your-handle>](https://www.linkedin.com/in/jason-m-522119101/))
 
-_"Your sample quote here!"_
+"I think, therefore I am." -Descarte
