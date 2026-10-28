@@ -9,6 +9,6 @@ I am a "Super Senior" hoping to graduate by 2028 or 2029 since I work full time,
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/jmacdonald1988-utsa)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://linkedin.com/in/<your-handle>](https://www.linkedin.com/in/jason-m-522119101/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/jason-m-522119101/))
 
 "I think, therefore I am." -Descarte
